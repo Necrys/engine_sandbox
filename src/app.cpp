@@ -1,5 +1,4 @@
 #include "app.h"
-#include "grid.h"
 #include "sprite_renderer.h"
 #include "position.h"
 #include "rotation.h"
