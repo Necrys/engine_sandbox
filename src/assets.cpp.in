@@ -1,0 +1,3 @@
+#include "assets.h"
+
+const std::string assets_path = "${sprites_SOURCE_DIR}";
